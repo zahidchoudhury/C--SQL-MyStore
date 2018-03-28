@@ -1,0 +1,12 @@
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\bin\Debug\ZmyStore.exe.config
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\bin\Debug\ZmyStore.exe
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\bin\Debug\ZmyStore.pdb
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\obj\Debug\ZmyStore.csprojResolveAssemblyReference.cache
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\obj\Debug\ZmyStore.Form1.resources
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\obj\Debug\ZmyStore.Properties.Resources.resources
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\obj\Debug\ZmyStore.csproj.GenerateResource.Cache
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\obj\Debug\ZmyStore.exe
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\obj\Debug\ZmyStore.pdb
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\obj\Debug\ZmyStore.Dashboard.resources
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\bin\Debug\ZmyStoreDB.mdf
+c:\users\zahid\documents\visual studio 2012\Projects\ZmyStore\ZmyStore\bin\Debug\ZmyStoreDB_log.ldf
